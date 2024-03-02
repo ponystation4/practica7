@@ -1,7 +1,7 @@
 #datos{
     width: 80%;
     background-color: #88e94f;
-    height: 600px;
+    height: 75vh;
     margin: auto;
     opacity: 0.9;
     color: #2a3e55;
@@ -22,6 +22,8 @@
     height: 40px;
     position: relative;
     top: 200px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.2rem;
 }
 
 .areaPrincipal{
